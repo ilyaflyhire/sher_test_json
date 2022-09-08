@@ -1,0 +1,20 @@
+{
+  "Instagram": {
+    "errorMsg": "Nothing found!",
+    "errorType": "message",
+    "url": "https://www.instagram.com/{}",
+    "urlMain": "https://www.instagram.com/",
+    "urlProbe": "https://www.picuki.com/profile/{}",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Telegram": {
+    "errorMsg": "<meta property=\"og:description\" content=\"\">",
+    "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9_]{5,32}$",
+    "url": "https://t.me/{}",
+    "urlMain": "https://t.me/",
+    "username_claimed": "roopeshvs",
+    "username_unclaimed": "noonewouldeverusethis7"
+  }
+}
